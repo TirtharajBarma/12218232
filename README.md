@@ -1,6 +1,6 @@
-# URL Shortener - Affordmed Campus Hiring Evaluation
+# URL Shortener
 
-A modern, responsive URL shortener application built with React and Material-UI as part of the Affordmed Campus Hiring Evaluation.
+A modern, responsive URL shortener application built with React and Material-UI.
 
 ## Features
 
